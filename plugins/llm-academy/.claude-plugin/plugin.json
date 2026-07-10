@@ -1,0 +1,10 @@
+{
+  "name": "llm-academy",
+  "description": "LLM Academy: an adaptive, mastery-based academy that teaches you how large language models actually work, from the ground up, entirely inside Claude Code. Built for smart non-coders. It places you, builds a personalized path from four public resources, and teaches with proven learning science until you can explain ChatGPT end to end in your own words.",
+  "version": "0.1.1",
+  "author": {
+    "name": "Alex Martin",
+    "email": "alex@edge-fund.io"
+  },
+  "keywords": ["learning", "education", "llm", "ai", "curriculum", "adaptive", "mastery"]
+}

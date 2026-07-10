@@ -1,0 +1,7 @@
+/STATUS.md
+/BUILD-SPEC.md
+tmp/
+.worktrees/
+*.env
+*.env.*
+.DS_Store

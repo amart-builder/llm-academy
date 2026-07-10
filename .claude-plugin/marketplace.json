@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "llm-academy",
+  "description": "Alex's personal Claude Code plugins.",
+  "owner": {
+    "name": "Alex Martin",
+    "email": "alex@edge-fund.io"
+  },
+  "plugins": [
+    {
+      "name": "llm-academy",
+      "description": "LLM Academy: adaptive, mastery-based course on the fundamentals of LLMs, taught from 3Blue1Brown, Karpathy's Zero to Hero, Dwarkesh Patel's chalkboard lectures, and Raghav Dixit's Vectors are all you need.",
+      "source": "./plugins/llm-academy",
+      "category": "learning"
+    }
+  ]
+}
